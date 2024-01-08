@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:afterlife_type",
+    "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+            "biome": "minecraft:hell_plains",
+            "lakes": true,
+            "features": true,
+            "layers": [
+                {
+                    "block": "minecraft:bedrock",
+                    "height": 1
+                },
+                {
+                    "block": "minecraft:stone",
+                    "height": 2
+                },
+                {
+                    "block": "minecraft:dirt",
+                    "height": 15
+                },
+                {
+                    "block": "minecraft:stone",
+                    "height": 2
+                },
+                {
+                    "block": "minecraft:dirt",
+                    "height": 4
+                },
+                {
+                    "block": "minecraft:grass_block",
+                    "height": 1
+                }
+            ],
+            "structure_overrides": []
+        }
+    }
+}
