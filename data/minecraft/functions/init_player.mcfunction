@@ -7,3 +7,5 @@ execute as @e[type=player,tag=revive] at @s if dimension minecraft:afterlife if 
 execute as @e[type=player] run scoreboard players set @s death 0
 
 execute as @e[type=player,tag=!revive] at @s if predicate minecraft:revive_altar run function minecraft:revive_altar
+execute as @e[type=player,tag=reviving] run attribute @s generic.movement_speed base set 0.0001
+execute as @e[type=player,tag=!reviving] run attribute @s generic.movement_speed base set 0.1
