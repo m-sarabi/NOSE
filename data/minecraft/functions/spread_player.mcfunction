@@ -3,3 +3,4 @@ execute as @s[gamemode=spectator] run gamemode survival
 tag @s add old
 tag @s add spread_before
 schedule function minecraft:add_spread 1t
+advancement revoke @s everything
