@@ -2,6 +2,7 @@
     "values": [
         "nose:new_player/check_new",
         "nose:death/death_check",
-        "nose:health_fix/health_all"
+        "nose:health_fix/health_all",
+        "nose:revive_altar/altar_check"
     ]
 }

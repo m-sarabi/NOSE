@@ -1,0 +1,1 @@
+execute as @a[tag=is_dead] at @s if predicate nose:revive_altar run function nose:revive_altar/revive_init
