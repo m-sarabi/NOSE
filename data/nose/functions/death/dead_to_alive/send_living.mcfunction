@@ -4,3 +4,4 @@ tag @s remove is_dead
 tag @s remove revive
 team leave @s
 tellraw @a [{"text": "Congratulation ", "color": "#33ff22"}, {"text": "","color": "#ee2200", "extra":[{"selector":"@s"}]}, {"text": ". You are alive again. Good luck out there!"}]
+advancement revoke @s everything
