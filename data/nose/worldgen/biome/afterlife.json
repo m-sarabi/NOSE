@@ -135,18 +135,19 @@
     ]
   },
   "features": [
-    [
-      "nose:lake_water_surface",
-      "nose:lake_water_underground"
-    ],
+    [],
     [
       "nose:lake_water_surface",
       "nose:lake_water_underground",
-      "minecraft:lake_lava_underground_hell",
-      "minecraft:lake_lava_surface_hell"
+      "nose:lake_lava_underground",
+      "nose:lake_lava_surface"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+      "nose:lake_water_surface",
+      "nose:lake_water_underground",
+      "nose:lake_lava_underground",
+      "nose:lake_lava_surface"
     ],
     [
       "minecraft:monster_room",

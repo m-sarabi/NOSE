@@ -1,9 +1,9 @@
 {
-  "feature": "minecraft:lake_lava",
+  "feature": "nose:lake_lava",
   "placement": [
     {
       "type": "minecraft:rarity_filter",
-      "chance": 2
+      "chance": 3
     },
     {
       "type": "minecraft:in_square"
