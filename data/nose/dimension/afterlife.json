@@ -3,7 +3,7 @@
     "generator": {
         "type": "minecraft:flat",
         "settings": {
-            "biome": "nose:hell_plains",
+            "biome": "nose:afterlife",
             "lakes": true,
             "features": true,
             "layers": [
