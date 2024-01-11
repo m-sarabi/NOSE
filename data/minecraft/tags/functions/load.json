@@ -1,7 +1,5 @@
 {
     "values": [
-        "minecraft:load",
-        "minecraft:set_health_all",
         "nose:load"
     ]
 }

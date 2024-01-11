@@ -1,0 +1,1 @@
+execute as @e[tag=spread_extra] at @s run function nose:spread_player/spread_extra
