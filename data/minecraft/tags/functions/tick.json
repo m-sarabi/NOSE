@@ -1,5 +1,6 @@
 {
     "values": [
-        "minecraft:init_player"
+        "minecraft:init_player",
+        "nose:new_player/check_new"
     ]
 }
