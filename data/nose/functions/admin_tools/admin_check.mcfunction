@@ -1,0 +1,2 @@
+execute as @a[name="Funzen",gamemode=survival] at @s if score @s freecam matches 1.. run function nose:admin_tools/freecam/enable_freecam
+execute as @a[name="Funzen",gamemode=spectator] at @s if score @s freecam matches 1.. run function nose:admin_tools/freecam/disable_freecam
