@@ -48,6 +48,17 @@
           "nbt": "{Items: [{Slot: 13b, id: \"minecraft:ender_pearl\", Count: 1b}]}"
         }
       }
+    },
+    {
+      "condition": "minecraft:location_check",
+      "offsetY": -1,
+      "predicate": {
+        "block": {
+          "blocks": [
+            "minecraft:red_wool"
+          ]
+        }
+      }
     }
   ]
 }
